@@ -1,0 +1,10 @@
+{
+  "generated_for": "RabTech Python Software Engineering internship",
+  "events": [
+    {"timestamp": "2026-08-01T09:00:00Z", "service": "billing-api", "level": "INFO", "latency_ms": 148, "status_code": 200},
+    {"timestamp": "2026-08-01T09:01:00Z", "service": "billing-api", "level": "WARN", "latency_ms": 920, "status_code": 200},
+    {"timestamp": "2026-08-01T09:02:00Z", "service": "profile-api", "level": "ERROR", "latency_ms": 1210, "status_code": 503},
+    {"timestamp": "2026-08-01T09:03:00Z", "service": "profile-api", "level": "INFO", "latency_ms": 205, "status_code": 200},
+    {"timestamp": "2026-08-01T09:04:00Z", "service": "billing-api", "level": "ERROR", "latency_ms": null, "status_code": 500}
+  ]
+}
